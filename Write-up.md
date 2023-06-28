@@ -1,0 +1,6 @@
+## Location Widget:
+The Location Widget is an essential component to include in a planner app as it provides users with valuable information about their current location. It enhances the app's functionality by allowing users to access their latitude, longitude, and address details directly within the planner interface.
+
+With the Location Widget, users can effortlessly retrieve their current location information without having to switch between different applications or devices. This feature is particularly useful for planning events, meetings, or activities, as it allows users to quickly reference their location details and share them with others. Additionally, it can assist users in organizing their schedules by providing context-aware information related to their whereabouts.
+
+To use the Location Widget, users simply need to enable location access on their devices. Once activated, the widget automatically retrieves the user's latitude, longitude, and address in real time. The displayed information is updated dynamically, ensuring accuracy and reliability. Users can then conveniently view and utilize this location data within the planner app, simplifying the planning and organization process.
