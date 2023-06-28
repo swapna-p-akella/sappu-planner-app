@@ -21,4 +21,6 @@ The Weather Widget is a valuable addition to a planner app as it provides users 
 
 Having weather information readily available in the planner app allows users to make informed decisions when planning outdoor activities, events, or trips. They can quickly check the current weather conditions, temperature, and precipitation, and forecast for their desired location. This knowledge enables users to adjust their plans accordingly, ensuring they are well-prepared and can make the most of their time. In this application, we display the temperature, description of weather, humidity and wind speed.
 
+Note: Please note that the application goes blank if the city is typed incorrectly. Please refresh and try something like Hyderabad, Singapore, Sandwich, Chicago, Goa etc
+
 Using the Weather Widget is simple and intuitive. Users can enter the desired city or location manually to retrieve the weather data for that specific area. The widget then fetches the latest weather information, including temperature, humidity, wind speed, and forecast. This data is presented within the app, enabling users to view and analyze the weather details while planning their schedules effectively. With the Weather Widget, users can stay informed about the weather conditions and seamlessly integrate weather considerations into their daily planning activities.
